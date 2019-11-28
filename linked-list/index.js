@@ -177,8 +177,8 @@ class Node {
      * @param {integer} value 
      */
     constructor(value) {
-      this.value = value;
-      this.next = null;
+        this.value = value;
+        this.next = null;
     }
 }
 
@@ -212,4 +212,3 @@ console.log(linkedList.getHead());
 console.log("Add new node F:" + nodeF.value);
 linkedList.addNode(nodeF);
 console.log(linkedList.getAllValuesAsArray());
-
