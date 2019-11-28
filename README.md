@@ -1,6 +1,6 @@
 # Adventures in computer science
 
-This is my adventures into computer science using real world examples where possible. I never studied CS at university and therefore feel like i have some holes in my game. This is just a way of me improving my knowledge of some of the basics of computer science. Feel free to browse on.
+This is my adventures into computer science using real world examples where possible. I never studied CS at university and therefore feel like i have some holes in my game. This is just a nice way of me improving my knowledge of some of the basics of computer science.
 
 ## Usage
 
