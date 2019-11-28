@@ -7,8 +7,7 @@ For a definition on a bubble sort take a look at the Wikipedia link below:
 
 ## Usage
 
-* Clone or download the repo and save locally
-* Run the file using python
+To run the file simply run the command from the root using python.
 
 ```
 $ python index.py
@@ -21,7 +20,6 @@ $ python3 index.py
 ```
 
 ## What is a bubble sort?
-
 
 From Wikipedia:
 
