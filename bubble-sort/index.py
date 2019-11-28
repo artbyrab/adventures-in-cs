@@ -17,10 +17,8 @@ class BubbleSort(object):
 
         * List
             - The list containing the numbers to be sorted.
-        TODO change this to list_iteration_count
         * list_iteration_count
             - A count of the number of passes we have had to make over the list
-        TODO change this to list_items_shuffled_count
         * list_items_shuffled_count
             - A count of the number of list items moved over each list 
             iteration. When this is 0 we know that the sort has finished
