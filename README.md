@@ -28,3 +28,4 @@ You can use this repo any way you see fit, look through the examples or run them
 * Wikipedia article on the topics of computer science
     * https://en.wikipedia.org/wiki/Outline_of_computer_science
 * https://github.com/ossu/computer-science
+* https://github.com/ForrestKnight/open-source-cs
