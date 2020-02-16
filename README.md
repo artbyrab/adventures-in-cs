@@ -19,11 +19,16 @@ You can use this repo any way you see fit, look through the examples or run them
     * Coded in python this is an example of a bubble sort
 * Linked list
     * A linked list coded in javascript
+* Stack
+    * A simple stack code in javascript
 
 ## Topics in progress
 
-* Binary trees
-    * An example of a binary tree coded in Golang
+* Hash tables
+* Heap sort
+* Binary search
+* Depth first search
+* Breadth first search
 
 ## Resources
 
