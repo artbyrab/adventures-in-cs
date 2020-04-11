@@ -13,7 +13,7 @@ You can use this repo any way you see fit, look through the examples or run them
 
 ## Topics covered so far
 
-* Bubble sort
+* Binary tree
     * A binary tree with traversal in PHP
 * Bubble sort
     * Coded in python this is an example of a bubble sort
